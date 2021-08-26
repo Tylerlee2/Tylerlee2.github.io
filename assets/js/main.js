@@ -287,7 +287,7 @@
 			};
 
 		// Articles.
-			$main_articles.each(function() {
+			$main.each(function() {
 
 				var $this = $(this);
 
